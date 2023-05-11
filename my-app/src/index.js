@@ -4,6 +4,7 @@ import "./index.css";
 import App from "./App";
 import App2 from "./App2";
 import reportWebVitals from "./reportWebVitals";
+import App3 from "./App3";
 
 // 루트 노드
 // React로 구현한 애플리케이션은 일반적으로 하나의 루트 DOM이 존재하며,
@@ -23,7 +24,8 @@ root.render(
     대문자로 시작하면 컴포넌트 요소로 해석하기 때문.
   */
   // <App />
-  <App2 />
+  // <App2 />
+  <App3 />
 );
 
 // If you want to start measuring performance in your app, pass a function
